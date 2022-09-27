@@ -1,5 +1,5 @@
 """ 
-Updated by: karenina.m.c.alidon@accenture.com
+Updated by: 
 """
 import requests
 import pandas as pd
